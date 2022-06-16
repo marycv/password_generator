@@ -9,8 +9,9 @@
 ## Author Name
 Mary Villoso
 ## Deployed Page
-
+https://marycv.github.io/password_generator/
 ## GitHub Repo
+[marycv](https://github.com/marycv/password_generator)
 ## Project Description
 Created a password generator that will produce a random password based off of the specific character length and character type the user selects. Created using HTML, CSS and Javascript.
 ## Usage
